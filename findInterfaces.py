@@ -31,4 +31,4 @@ try:
 
                 print("{\"interface\": \"" + i + "\",\"connection\": \"not connected\"}")
 except:
-    print("error running findInterfaces.py...")
+#     print("error running findInterfaces.py...")
