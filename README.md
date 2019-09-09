@@ -22,7 +22,7 @@ The various options for the Zookeeper app include:
     - Targeting specific clients *
   - MiTM Attack mode
 - Wardrive mode *
- - This mode utilizes Kismet to setup a wardriving environment that provides real-time feedback of captured handshakes, while storing locations on Google Maps.
+  - This mode utilizes Kismet to setup a wardriving environment that provides real-time feedback of captured handshakes, while storing locations on Google Maps.
 
 *Currently in development
 
