@@ -39,4 +39,4 @@ Hardware:
 - TP-Link TL-WN722N High Gain Wireless Adapter
 - Right Angle USB Extender
 - Pelican 1040 Waterproof Case
-- Custom 12,000 mAh Batter with charging/discharging circuitry
+- Custom 12,000 mAh Battery with charging/discharging circuitry
